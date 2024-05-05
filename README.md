@@ -1,2 +1,2 @@
-# https-pre-production.innogames.com-
+# https-pre-production.innogames.com
 #subdomain tackeover my naveen
